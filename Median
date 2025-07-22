@@ -1,0 +1,4 @@
+import numpy
+data=[27,36,28,18,35,35,26,20,40,26]
+median=numpy.median(data)
+print(median)
