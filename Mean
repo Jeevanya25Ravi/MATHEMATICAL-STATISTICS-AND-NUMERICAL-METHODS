@@ -1,0 +1,4 @@
+import numpy
+data=[25,32,28,34,24,31,36,27,29,30]
+mean=numpy.mean(data)
+print(mean)
